@@ -1,0 +1,18 @@
+.container {
+    padding: 10px;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.container div {
+    margin-bottom: 20px;
+}
+
+.error-message {
+    display: none;
+    color: #ff0000;
+}
+
+.error-message.show {
+    display: block;
+}
